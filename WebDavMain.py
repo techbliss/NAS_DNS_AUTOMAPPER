@@ -53,7 +53,7 @@ except IOError:
 
 
 
-YOURAPIKEY = "" #enter your Google Maps JavaScript API
+
 batcher = '''
 :S_CHECK
 IF EXIST S:\NUL ECHO S: Drive Exists - [DNSADRESS]
