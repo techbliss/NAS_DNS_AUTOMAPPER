@@ -1,7 +1,7 @@
 # **Nas Auto mapper**
 
 Windows Nas auto mapper is a simple systray and GUI screen app for windows. It is coded with Python 2.7 and PyQt5.
-It fixes the lack of auto remapping network folders after rebooting windows, and are focued on mapping NAS via there DNS name.
+It fixes the lack of auto remapping network folders after rebooting windows, and are focused on mapping NAS via there DNS name.
 
 Installer does not depend on either python or Qt installations.
 
@@ -23,7 +23,7 @@ Installer does not depend on either python or Qt installations.
 # **Usage**
 
 App will show in windows system tray menu.
-left click icon to setup new server at forst launch, or when changing server.
+left click icon to setup new server at first launch, or when changing server.
 right click for other options.
 **Dont type https://, just type dns name like screenshot of GUI**
 
