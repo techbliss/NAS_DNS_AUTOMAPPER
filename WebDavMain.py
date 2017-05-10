@@ -444,7 +444,7 @@ class RightClickMenu(QtWidgets.QMenu):
 
     def devv(self):
         import webbrowser
-        webbrowser.open('https://github.com/techbliss/Nas_Dns_Automapper')
+        webbrowser.open('https://github.com/techbliss/NAS_DNS_AUTOMAPPER')
 
     def Followme(self):
         import webbrowser

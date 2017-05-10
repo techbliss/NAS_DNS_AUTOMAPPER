@@ -65,8 +65,11 @@ Adope prompts for password
 # **Credits**
 
 [![](https://img.shields.io/badge/Pyinstaller--blue.svg?maxAge=2592000)](https://github.com/pyinstaller/pyinstaller)
+
 [![](https://img.shields.io/badge/Iconfinder free icons--red.svg?maxAge=2592000)](https://www.iconfinder.com)
-@Fearless for the batch script.
+
+ *@Fearless for the batch script.*
+
 [](https://github.com/mrfearless)
 
 
