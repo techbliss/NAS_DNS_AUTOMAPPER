@@ -63,9 +63,6 @@ Adope prompts for password
 
 
 # **Credits**
-
-[![](https://img.shields.io/badge/Iconfinder free icons--red.svg?maxAge=2592000)](https://www.iconfinder.com)
-
  *@Fearless for the batch script.*
 
 [](https://github.com/mrfearless)
