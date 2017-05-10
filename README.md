@@ -7,7 +7,7 @@ Installer does not depend on either python or Qt installations.
 
 
 
-[![](https://img.shields.io/badge/Twitter--blue.svg?maxAge=2592000)](https://twitter.com/zadow28) ![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000) ![PyQ5t](https://img.shields.io/badge/PyQt5-5.6-orange.svg) ![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000) [![](https://img.shields.io/badge/Donate-Paypal-blue.svg?maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8KXM6W2JVRUWL)[![](https://img.shields.io/badge/Latest release--red.svg?maxAge=2592000)](https://github.com/techbliss/Windows_Screenrecorder/releases/tag/1.0)
+[![](https://img.shields.io/badge/Twitter--blue.svg?maxAge=2592000)](https://twitter.com/zadow28) ![Python version](https://img.shields.io/badge/python-2.7-brightgreen.svg?maxAge=2592000) ![PyQ5t](https://img.shields.io/badge/PyQt5-5.6-orange.svg) ![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000) [![](https://img.shields.io/badge/Donate-Paypal-blue.svg?maxAge=2592000)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8KXM6W2JVRUWL)[![](https://img.shields.io/badge/Latest release--red.svg?maxAge=2592000)](https://github.com/techbliss/NAS_DNS_AUTOMAPPER/releases/tag/releases)
 
 # **Screens**
 
@@ -63,8 +63,6 @@ Adope prompts for password
 
 
 # **Credits**
-
-[![](https://img.shields.io/badge/Pyinstaller--blue.svg?maxAge=2592000)](https://github.com/pyinstaller/pyinstaller)
 
 [![](https://img.shields.io/badge/Iconfinder free icons--red.svg?maxAge=2592000)](https://www.iconfinder.com)
 
